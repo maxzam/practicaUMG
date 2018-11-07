@@ -10,9 +10,9 @@
  */
 public class Automovil {
     private Integer id;
-    private String placa;
-    private String marca;
-    private String linea;
+    private String placaAutomovil;
+    private String marcaAutomovil;
+    private String lineaAutomovil;
     private Integer modelo;
     private String color;
     private Automovil next;
